@@ -1,0 +1,28 @@
+.content {
+    min-height: 100%;
+    height: auto;
+    margin: auto;
+    width: 60%;
+    background-color: aliceblue;
+}
+.navigation
+{
+    font-size:xx-large;
+}
+.formcontainer{
+    margin: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+    border: gray;
+}
+.postcontainer{
+    height: auto;
+    padding: 5%;
+    padding-bottom: 5%;
+}
+.time{
+    float: right;
+    font-style: italic;
+    color: gray;
+}
+html,body { height:100%; }
